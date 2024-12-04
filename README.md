@@ -2,9 +2,14 @@
 
 ## <b>Description</b>
 
-!! FOR EDUCATION PURPOSES ONLY !!</br>
-!! Not meant to be optimized nor clean nor complete. Just another personal project. Visible learning curve between both Projects(x86/x64). !!</br>
-
+! FOR EDUCATION PURPOSES ONLY !</br>
+Not optimized nor clean nor complete. Just another personal project.</br>
+* x64 Games:
+   * Dark Souls 3
+   * Code Vein
+* x86 Games:
+   * Need for Speed: Most Wanted
+   * Serious Sam: The Second Encounter (?)
 ## <b>Getting Started</b>
 
 ### <b>On WINDOWS without Installer</b>
@@ -13,7 +18,7 @@
 2. Unzip "Game Trainer-x.x.x.zip"
 4. Double-click either Executable
 
-## <b>Dependencies</b>
+## <b>Build Dependencies</b>
 
 * wxWidgets-3.1.3
 
@@ -35,8 +40,9 @@ Output: "GameTrainer/x64/Release/GameTrainerX64.exe"
 
 ## <b>Help</b>
 
-If your encounter any bugs or security issues feel free to contact me.</br>
-Note: Basepointer and Offsets may need to be updated everytime a game gets patched.
+Feel free to contact me.</br>
+! Base pointer and offsets may change after a game patch which would break the program.</br>
+! Older games are less likely to get patched.
 
 ## <b>Authors</b>
 
